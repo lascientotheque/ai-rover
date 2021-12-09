@@ -14,5 +14,3 @@ Numéro activité | Activté | Dépend des activtés
 9 | Reconnaissance d'images pour le contrôle du rover avec Python | 2, 4, 7
 
 
-
-
