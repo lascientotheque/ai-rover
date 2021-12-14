@@ -1,4 +1,4 @@
-# Tutoriels pour la reconnaissance d'images et le contrôle d'un rover
+# Activités pour la reconnaissance d'images et le contrôle d'un rover
 
 ## Public ciblé
 
