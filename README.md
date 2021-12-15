@@ -1,5 +1,7 @@
 # Activités pour la reconnaissance d'images et le contrôle d'un rover
 
+**! En cours de construction !**
+
 ## Public ciblé
 
 * A partir de 10 ans
