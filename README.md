@@ -9,7 +9,7 @@
 ## Aperçu des activités
 
 
-Numéro activité | Activté | Dépend des activtés
+Numéro activité | Activité | Dépend des activtés
  :--- | :--- | :--- 
 1 | Reconnaissance d'images avec Google Teachable Machine |  
 2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  
