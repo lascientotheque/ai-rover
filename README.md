@@ -54,7 +54,7 @@ Création de contenus
 
 [Un programme d'études sur l'éthique de l'intelligence artificielle pour les élèves de collège](https://docs.google.com/document/d/1pQ8D4iDnwKoiveJOZZgy6SLvgDD1nYQOPFUwyuBpEic/edit#) (Page 7)
 
-* 1. Comprendre les mécanismes de base des systèmes d'intelligence artificielle. 
+* 1 - Comprendre les mécanismes de base des systèmes d'intelligence artificielle. 
 * 1.a. Connaître trois parties d'un algorithme : entrée, étapes pour changer l'entrée, sortie. 
 * 1.b. Savoir que l'intelligence artificielle est un type d'algorithme spécifique et comporte trois parties spécifiques : ensemble de données, algorithme d'apprentissage et prédiction. 
 * 1.c Comprendre le problème de la classification dans le contexte de l'apprentissage automatique supervisé. Comprendre comment la quantité de données d'entraînement affecte la précision et la robustesse d'un modèle d'apprentissage automatique supervisé. 
