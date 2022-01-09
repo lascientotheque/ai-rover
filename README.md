@@ -16,7 +16,7 @@ Construis un rover martien avec une carte Raspberry Pi et programme-le avec des 
 * A partir de **10 ans** pour les activités de construction du robot, reconnaissance d'images, et **programmation en Scratch**
 * A partir de **14 ans** pour les activités de construction du robot, reconnaissance d'images, et **programmation en Python**
 
-## Aperçu des activités
+## Aperçu et motivations des activités
 
 En 2026, l'Agence Spatiale Européenne (ESA) et la National Aeronautics and Space Administration (NASA) enverront [un rover sur Mars avec pour mission de récuperer des tubes contenant des échantillons de sol martien](https://fr.wikipedia.org/wiki/Mars_Sample_Return#Mission_Sample_Retrieval_Lander_(SRL)). Le rover, qui s'appelle Fetch (qui signifie 'récupérer' en anglais), devra être capable de se déplacer, de retrouver les tubes, et de les récupérer de la façon la plus autonome possible. Pour cela, Fetch utilisera des techniques d'intelligence artificielle, notamment de reconnaissance d'images pour trouver de façon autonome les tubes déposés sur le sol par le rover [Perseverance](https://en.wikipedia.org/wiki/Perseverance_(rover)) en 2021 et 2022. 
 
