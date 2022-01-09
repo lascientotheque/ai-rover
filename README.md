@@ -50,7 +50,7 @@ Numéro activité | Activité | Dépend des activités | Temps estimé
 
 Les activités permettent d'appréhender et s'approprier les notions d'algorithmes, de logigrammes, et les concepts de bases 
 
-* de la programmation (conditions, boucles, variables)
+* de la programmation (conditions, boucles, variables, objets)
 * de robotique (construction d'un rover, câblage d'une carte programmable avec des moteurs et une batterie)
 * de l'intelligence artificielle (entrainer un modèle de prédiction avec des exemples, utiliser le modèle dans un programme).
 
