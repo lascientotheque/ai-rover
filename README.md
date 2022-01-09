@@ -1,6 +1,6 @@
 # MarsCamBot: Rover martien intelligent  
 
-Construis un rover martien avec une carte Raspberry Pi et programme le avec de l'intelligence artificielle pour aller rechercher de précieux tubes sur Mars en 2026!
+Construis un rover martien avec une carte Raspberry Pi et programme-le avec des techniques  d'intelligence artificielle de reconnaissance d'images pour aller rechercher de précieux tubes sur Mars en 2026!
 
 **! En cours de construction !**
 
@@ -11,30 +11,31 @@ Construis un rover martien avec une carte Raspberry Pi et programme le avec de l
 
 ## Description
 
-En 2026, [un rover sera envoyé sur Mars avec pour mission de récuperer des tubes contenant des échantillons de sol martien](https://fr.wikipedia.org/wiki/Mars_Sample_Return#Mission_Sample_Retrieval_Lander_(SRL)). Le rover, qui s'appelle Fetch (qui signifie 'récupérer' en anglais), devra être capable de se déplacer, de retrouver les tubes, et de les récupérer de la façon la plus autonome possible. Pour cela, Fetch utilisera des techniques d'intelligence artificielle, notamment pour trouver de façon autonome les tubes déposés sur le sol. 
+En 2026, [un rover sera envoyé sur Mars avec pour mission de récuperer des tubes contenant des échantillons de sol martien](https://fr.wikipedia.org/wiki/Mars_Sample_Return#Mission_Sample_Retrieval_Lander_(SRL)). Le rover, qui s'appelle Fetch (qui signifie 'récupérer' en anglais), devra être capable de se déplacer, de retrouver les tubes, et de les récupérer de la façon la plus autonome possible. Pour cela, Fetch utilisera des techniques d'intelligence artificielle, notamment de reconnaissance d'images pour trouver de façon autonome les tubes déposés sur le sol par le rover Perseverance en 2021 et 2022. 
 
-Les activités proposées ici visent à faire découvrir comment concevoir un système d'intelligence artificielle pour de la reconnaissance d'images, et comment permettre à un robot de l'utiliser. 
+Les activités proposées ici visent à faire découvrir comment concevoir un système d'intelligence artificielle pour de la reconnaissance d'images (que l'on appelle **modèle prédictif** pour la reconnaissance d'images), et comment permettre à un robot d'utiliser ce modèle. 
 
 Les activités se décomposent en trois parties:
 
-* Tout d'abord, nous expliquons comment créer un modèle de reconnaissance d'image. On utilisera pour cela la *Google Teachable Machine*. On montrera ensuite comment le modèle peut être utilisé dans un programme de façon simple, avec Scratch, ou en Python. Ce sont les activités 1 à 3 ci-dessous.
-* La deuxième partie consistera à construire un rover, et à programmer des déplacements. Le CamJamKit sera utilisé, qui fournit toutes les pièces nécessaires à la construction du rover: Les roues, les moteurs, et le chassis. Ce sont les activités 4 à 7 ci-dessous.
-* La troisième partie consistera à utiliser le modèle de reconnaissance d'image sur le rover, pour permettre à celui-ci de retrouver de façon autonome des tubes dans son environnement. Ce sont les activités 8 et 9 ci-dessous.
+* Tout d'abord, nous expliquons comment créer un modèle prédictif pour la reconnaissance d'image. On utilisera pour cela la *Google Teachable Machine*. On montrera ensuite comment le modèle peut être utilisé **dans un programme de façon simple, avec Scratch, ou en Python**. Ce sont les activités 1 à 3 ci-dessous.
+* La deuxième partie consistera à **construire un rover**, et à programmer des déplacements. Le CamJam EduKit sera utilisé, qui fournit toutes les pièces nécessaires à la construction du rover: Les roues, les moteurs, et le chassis. Ce sont les activités 4 à 7 ci-dessous.
+* La troisième partie consistera à **utiliser le modèle de reconnaissance d'image sur le rover**, pour permettre à celui-ci de retrouver de façon autonome des tubes dans son environnement. Ce sont les activités 8 et 9 ci-dessous.
 
 ### Détails des activités
 
 
-Numéro activité | Activité | Dépend des activtés
- :--- | :--- | :--- 
-1 | Reconnaissance d'images avec Google Teachable Machine |  
-2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  
-3 | Reconnaissance d'images en Python | 1  
-4 | Construction d'un rover avec Raspberry Pi |   
-5 | Contrôle du rover avec un site Web | 4  
-6 | Contrôle du rover avec Scratch (Adacraft) | 4 
-7 | Contrôle du rover avec Python | 4
-8 | Reconnaissance d'images pour le contrôle du rover avec Scratch (Adacraft) | 1, 4, 6
-9 | Reconnaissance d'images pour le contrôle du rover avec Python | 2, 4, 7
+Numéro activité | Activité | Dépend des activtés | Age 
+ :--- | :--- | :--- | :--- 
+1 | Reconnaissance d'images avec Google Teachable Machine | 10-18 
+2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  | 10-14
+3 | Reconnaissance d'images en Python | 1  | 14-18
+4 | Construction d'un rover avec Raspberry Pi |   | 10-18
+5 | Contrôle du rover avec un site Web | 4  | 10-18
+6 | Contrôle du rover avec Scratch (Adacraft) | 4 | 10-14
+7 | Contrôle du rover avec Python | 4 | 14-18
+8 | Reconnaissance d'images pour le contrôle du rover avec Scratch (Adacraft) | 1, 4, 6 | 10-14
+9 | Reconnaissance d'images pour le contrôle du rover avec Python | 2, 4, 7 | 14-18
+
 
 ## Objectifs pédagogiques 
 
