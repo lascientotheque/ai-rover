@@ -43,7 +43,7 @@ Numéro activité | Activité | Dépend des activités | Temps estimé
 4 | Construction d'un rover avec Raspberry Pi |  | 2-4h
 5 | Contrôle du rover avec un site Web | 4  | 1h
 7 | Contrôle du rover avec Python | 4 | 2-4h
-9 | Contrôle du rover et reconnaissance d'images avec Python | 2, 4, 7 | 2-4h
+9 | Contrôle du rover et reconnaissance d'images avec Python | 3, 4, 7 | 2-4h
 
 
 ## Objectifs pédagogiques 
