@@ -2,7 +2,9 @@
 
 Construis un rover martien avec une carte Raspberry Pi et programme-le avec des techniques  d'intelligence artificielle de reconnaissance d'images pour aller rechercher de précieux tubes sur Mars en 2026!
 
+<div align="center">
 <img src="./images/fetch-rover.jpg" alt="drawing" width="600"/> 
+</div>
 
 **! En cours de construction !**
 
@@ -26,7 +28,7 @@ Les activités se décomposent en trois parties:
 
 * La deuxième partie consistera à **construire un rover**, et à programmer des déplacements. Une carte programmable Raspberry Pi et le CamJam EduKit seront utilisés (Le CamJam EduKit fournit toutes les pièces nécessaires à la construction du rover: Les roues, les moteurs, et la connectique). L'activité est prévue pour être **simple, relativement abordable financièrement** (Environ 80 euros en tout pour un CamJam EduKit, une carte programmable Raspberry Pi, et une caméra), et offrant une **large liberté dans la 'personnalisation' de l'apparence du rover**.  Ce sont les activités 4 à 7 ci-dessous.
 
-<div center>
+<div align="center">
 <h4>Exemples de rover construits, avec chassis en carton, en impression 3D, ou en bois</h4>
 </div>
 
