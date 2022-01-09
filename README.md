@@ -26,7 +26,7 @@ Les activités se décomposent en trois parties:
 
 Numéro activité | Activité | Dépend des activtés | Age 
  :--- | :--- | :--- | :--- 
-1 | Reconnaissance d'images avec Google Teachable Machine | 10-18 
+1 | Reconnaissance d'images avec Google Teachable Machine | | 10-18 
 2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  | 10-14
 3 | Reconnaissance d'images en Python | 1  | 14-18
 4 | Construction d'un rover avec Raspberry Pi |   | 10-18
