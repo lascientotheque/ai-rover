@@ -6,8 +6,8 @@ Construis un rover martien avec une carte Raspberry Pi et programme-le avec des 
 
 ## Public ciblé
 
-* A partir de 10 ans pour les activités de construction du robot, reconnaissance d'images, et programmation en Scratch
-* A partir de 14 ans pour les activités de construction du robot, reconnaissance d'images, et programmation en Python
+* A partir de **10 ans** pour les activités de construction du robot, reconnaissance d'images, et **programmation en Scratch**
+* A partir de **14 ans** pour les activités de construction du robot, reconnaissance d'images, et **programmation en Python**
 
 ## Description
 
