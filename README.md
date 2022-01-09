@@ -31,7 +31,7 @@ Les activités se décomposent en trois parties:
 * La deuxième partie consistera à **construire un rover**, et à programmer des déplacements. Une carte programmable Raspberry Pi et le CamJam EduKit seront utilisés (Le CamJam EduKit fournit toutes les pièces nécessaires à la construction du rover: Les roues, les moteurs, et la connectique). L'activité est prévue pour être **simple, relativement abordable financièrement** (Environ 80 euros en tout pour un CamJam EduKit, une carte programmable Raspberry Pi, et une caméra), et offrant une **large liberté dans la 'personnalisation' de l'apparence du rover**.  Ce sont les activités 4 à 7 ci-dessous.
 
 <div align="center">
-<h4>Exemples de rover construits, avec chassis en carton, en impression 3D, ou en bois</h4>
+<h4>Exemples de rovers construits avec un chassis en carton, en impression 3D, ou en bois</h4>
 </div>
 
 <table>
