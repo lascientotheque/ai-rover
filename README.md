@@ -21,7 +21,7 @@ Les activités se décomposent en trois parties:
 * La deuxième partie consistera à **construire un rover**, et à programmer des déplacements. Une carte programmable Raspberry Pi et le CamJam EduKit seront utilisés (Le CamJam EduKit fournit toutes les pièces nécessaires à la construction du rover: Les roues, les moteurs, le chassis, et la connectique). L'activité est prévue pour être **simple, relativement abordable financièrement** (Environ 80 euros en tout pour un CamJam EduKit, une carte programmable Raspberry Pi, et une caméra), et offrant une **large liberté dans la 'personnalisation' du l'apparence du rover**.  Ce sont les activités 4 à 7 ci-dessous.
 * La troisième partie consistera à **utiliser le modèle de reconnaissance d'image sur le rover**, pour permettre à celui-ci de retrouver de façon autonome des tubes dans son environnement. Nous proposons un sol martien à imprimer, de façon à rendre l'activité proche de ce qu'un rover martien pourra voir une fois à destination! Ce sont les activités 8 et 9 ci-dessous.
 
-### Détails des activités
+### Détail des activités
 
 * De 10 à 14 ans: Programmation des activités avec Scratch
 
