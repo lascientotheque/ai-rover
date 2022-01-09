@@ -25,25 +25,25 @@ Les activités se décomposent en trois parties:
 
 * De 10 à 14 ans: Programmation des activités avec Scratch
 
-Numéro activité | Activité | Dépend des activtés 
- :--- | :--- | :--- 
-1 | Reconnaissance d'images avec Google Teachable Machine | 
-2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  
-4 | Construction d'un rover avec Raspberry Pi |   
-5 | Contrôle du rover avec un site Web | 4  
-6 | Contrôle du rover avec Scratch (Adacraft) | 4 
-8 | Contrôle du rover et reconnaissance d'images avec Scratch (Adacraft) | 1, 4, 6 
+Numéro activité | Activité | Dépend des activités | Temps estimé
+ :--- | :--- | :--- | :--- 
+1 | Reconnaissance d'images avec Google Teachable Machine | | 2-4h
+2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  | 2-4h
+4 | Construction d'un rover avec Raspberry Pi | | 2-4h
+5 | Contrôle du rover avec un site Web | 4 | 1h
+6 | Contrôle du rover avec Scratch (Adacraft) | 4 | 2-4h
+8 | Contrôle du rover et reconnaissance d'images avec Scratch (Adacraft) | 1, 4, 6 | 2-4h
 
 * De 14 à 18 ans: Programmation des activités avec Python 
 
-Numéro activité | Activité | Dépend des activtés 
- :--- | :--- | :--- 
-1 | Reconnaissance d'images avec Google Teachable Machine | 
-3 | Reconnaissance d'images en Python | 1  
-4 | Construction d'un rover avec Raspberry Pi |   
-5 | Contrôle du rover avec un site Web | 4  
-7 | Contrôle du rover avec Python | 4 
-9 | Contrôle du rover et reconnaissance d'images avec Python | 2, 4, 7 
+Numéro activité | Activité | Dépend des activités | Temps estimé
+ :--- | :--- | :--- | :---
+1 | Reconnaissance d'images avec Google Teachable Machine | | 2-4h
+3 | Reconnaissance d'images en Python | 1  | 2-4h
+4 | Construction d'un rover avec Raspberry Pi |  | 2-4h
+5 | Contrôle du rover avec un site Web | 4  | 1h
+7 | Contrôle du rover avec Python | 4 | 2-4h
+9 | Contrôle du rover et reconnaissance d'images avec Python | 2, 4, 7 | 2-4h
 
 
 ## Objectifs pédagogiques 
