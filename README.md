@@ -21,7 +21,7 @@ Les activités se décomposent en trois parties:
 
 * Tout d'abord, nous expliquons comment créer **un modèle prédictif pour la reconnaissance d'image**. On utilisera pour cela la *Google Teachable Machine*. On montrera ensuite comment le modèle peut être **utilisé dans un programme de façon simple, avec Scratch, ou en Python** pour retrouver des tubes sur un sol martien. Ce sont les activités 1 à 3 ci-dessous.
 
-<img src="1_Reconnaissance_Images/images/ir_tm_tube_english.jpg" alt="drawing" width="600"/> 
+<img src="./1_Reconnaissance_Images/images/ir_tm_tube_english.jpg"  width="600"/> 
 
 
 * La deuxième partie consistera à **construire un rover**, et à programmer des déplacements. Une carte programmable Raspberry Pi et le CamJam EduKit seront utilisés (Le CamJam EduKit fournit toutes les pièces nécessaires à la construction du rover: Les roues, les moteurs, et la connectique). L'activité est prévue pour être **simple, relativement abordable financièrement** (Environ 80 euros en tout pour un CamJam EduKit, une carte programmable Raspberry Pi, et une caméra), et offrant une **large liberté dans la 'personnalisation' de l'apparence du rover**.  Ce sont les activités 4 à 7 ci-dessous.
@@ -33,13 +33,13 @@ Les activités se décomposent en trois parties:
 <table>
     <tr>
         <td> 
-            <img src="4_Construction_Rover/images/CamJam_Box.jpg" alt="drawing" width="300"/> 
+            <img src="4_Construction_Rover/images/CamJam_Box.jpg"  width="300"/> 
         </td>
         <td> 
             <img src="4_Construction_Rover/images/CamJam_Chassis.jpg" alt="drawing" width="300"/> 
         </td>
         <td> 
-            <img src="4_Construction_Rover/images/camjam_wood.png" alt="drawing" width="300"/>
+            <img src="4_Construction_Rover/images/camjam_wood.png" width="300"/>
         </td>
     </tr>
     <tr>
