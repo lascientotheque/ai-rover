@@ -13,7 +13,7 @@ Construis un rover martien avec une carte Raspberry Pi et programme-le avec des 
 
 En 2026, [un rover sera envoyé sur Mars avec pour mission de récuperer des tubes contenant des échantillons de sol martien](https://fr.wikipedia.org/wiki/Mars_Sample_Return#Mission_Sample_Retrieval_Lander_(SRL)). Le rover, qui s'appelle Fetch (qui signifie 'récupérer' en anglais), devra être capable de se déplacer, de retrouver les tubes, et de les récupérer de la façon la plus autonome possible. Pour cela, Fetch utilisera des techniques d'intelligence artificielle, notamment de reconnaissance d'images pour trouver de façon autonome les tubes déposés sur le sol par le rover Perseverance en 2021 et 2022. 
 
-Les activités proposées ici visent à faire découvrir comment concevoir un système d'intelligence artificielle pour de la reconnaissance d'images (que l'on appelle **modèle prédictif** pour la reconnaissance d'images), et comment permettre à un robot d'utiliser ce modèle. 
+Les activités proposées ici visent à faire découvrir comment concevoir un système d'intelligence artificielle pour de la reconnaissance d'images, et comment permettre à un robot d'utiliser ce modèle. 
 
 Les activités se décomposent en trois parties:
 
@@ -23,18 +23,27 @@ Les activités se décomposent en trois parties:
 
 ### Détails des activités
 
+* De 10 à 14 ans: Programmation des activités avec Scratch
 
-Numéro activité | Activité | Dépend des activtés | Age 
- :--- | :--- | :--- | :--- 
-1 | Reconnaissance d'images avec Google Teachable Machine | | 10-18 
-2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  | 10-14
-3 | Reconnaissance d'images en Python | 1  | 14-18
-4 | Construction d'un rover avec Raspberry Pi |   | 10-18
-5 | Contrôle du rover avec un site Web | 4  | 10-18
-6 | Contrôle du rover avec Scratch (Adacraft) | 4 | 10-14
-7 | Contrôle du rover avec Python | 4 | 14-18
-8 | Contrôle du rover et reconnaissance d'images avec Scratch (Adacraft) | 1, 4, 6 | 10-14
-9 | Contrôle du rover et reconnaissance d'images avec Python | 2, 4, 7 | 14-18
+Numéro activité | Activité | Dépend des activtés 
+ :--- | :--- | :--- 
+1 | Reconnaissance d'images avec Google Teachable Machine | 
+2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  
+4 | Construction d'un rover avec Raspberry Pi |   
+5 | Contrôle du rover avec un site Web | 4  
+6 | Contrôle du rover avec Scratch (Adacraft) | 4 
+8 | Contrôle du rover et reconnaissance d'images avec Scratch (Adacraft) | 1, 4, 6 
+
+* De 14 à 18 ans: Programmation des activités avec Python 
+
+Numéro activité | Activité | Dépend des activtés 
+ :--- | :--- | :--- 
+1 | Reconnaissance d'images avec Google Teachable Machine | 
+3 | Reconnaissance d'images en Python | 1  
+4 | Construction d'un rover avec Raspberry Pi |   
+5 | Contrôle du rover avec un site Web | 4  
+7 | Contrôle du rover avec Python | 4 
+9 | Contrôle du rover et reconnaissance d'images avec Python | 2, 4, 7 
 
 
 ## Objectifs pédagogiques 
