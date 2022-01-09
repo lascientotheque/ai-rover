@@ -1,10 +1,13 @@
-# Mission Fetch: Rover martien intelligent  
+# MarsCamBot: Rover martien intelligent  
+
+Construis un rover martien avec une carte Raspberry Pi et programme le avec de l'intelligence artificielle pour aller rechercher de précieux tubes sur Mars en 2026!
 
 **! En cours de construction !**
 
 ## Public ciblé
 
-* A partir de 10 ans
+* A partir de 10 ans pour les activités de construction du robot, reconnaissance d'images, et programmation en Scratch
+* A partir de 14 ans pour les activités de construction du robot, reconnaissance d'images, et programmation en Python
 
 ## Description
 
