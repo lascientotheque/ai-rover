@@ -2,6 +2,8 @@
 
 Construis un rover martien avec une carte Raspberry Pi et programme-le avec des techniques  d'intelligence artificielle de reconnaissance d'images pour aller rechercher de précieux tubes sur Mars en 2026!
 
+<img src="./images/fetch-rover.jpg" alt="drawing" width="600"/> 
+
 **! En cours de construction !**
 
 ## Public ciblé
@@ -18,7 +20,48 @@ Les activités proposées ici visent à faire découvrir comment concevoir un sy
 Les activités se décomposent en trois parties:
 
 * Tout d'abord, nous expliquons comment créer **un modèle prédictif pour la reconnaissance d'image**. On utilisera pour cela la *Google Teachable Machine*. On montrera ensuite comment le modèle peut être **utilisé dans un programme de façon simple, avec Scratch, ou en Python** pour retrouver des tubes sur un sol martien. Ce sont les activités 1 à 3 ci-dessous.
+
+<img src="1_Reconnaissance_Images/images/ir_tm_tube_english.jpg" alt="drawing" width="600"/> 
+
+
 * La deuxième partie consistera à **construire un rover**, et à programmer des déplacements. Une carte programmable Raspberry Pi et le CamJam EduKit seront utilisés (Le CamJam EduKit fournit toutes les pièces nécessaires à la construction du rover: Les roues, les moteurs, et la connectique). L'activité est prévue pour être **simple, relativement abordable financièrement** (Environ 80 euros en tout pour un CamJam EduKit, une carte programmable Raspberry Pi, et une caméra), et offrant une **large liberté dans la 'personnalisation' de l'apparence du rover**.  Ce sont les activités 4 à 7 ci-dessous.
+
+<div center>
+<h4>Exemples de rover construits, avec chassis en carton, en impression 3D, ou en bois</h4>
+</div>
+
+<table>
+    <tr>
+        <td> 
+            <img src="4_Construction_Rover/images/CamJam_Box.jpg" alt="drawing" width="300"/> 
+        </td>
+        <td> 
+            <img src="4_Construction_Rover/images/CamJam_Chassis.jpg" alt="drawing" width="300"/> 
+        </td>
+        <td> 
+            <img src="4_Construction_Rover/images/camjam_wood.png" alt="drawing" width="300"/>
+        </td>
+    </tr>
+    <tr>
+        <td> 
+            <div align="center">
+            <a href="https://www.youtube.com/watch?v=LJDEV7rGwaM">Chassis en carton (avec la boîte du CamJam EduKit)</a>
+            </div>
+        </td>
+        <td> 
+            <div align="center">
+            <a href="https://camjam.me/?page_id=1035">Chassis en impression 3D</a>
+            </div>
+        </td>
+        <td> 
+            <div align="center">
+            <a href="https://www.youtube.com/watch?v=LKTpj8QHWEc">Chassis en bois</a>
+            </div>
+        </td>
+    </tr>
+    
+</table>
+
 * La troisième partie consistera à **utiliser le modèle de reconnaissance d'image sur le rover**, pour permettre à celui-ci de retrouver de façon autonome des tubes dans son environnement. Nous proposons un sol martien à imprimer, de façon à rendre l'activité proche de ce qu'un rover martien pourra voir une fois à destination! Ce sont les activités 8 et 9 ci-dessous.
 
 ### Détail des activités
