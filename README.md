@@ -33,8 +33,8 @@ Numéro activité | Activité | Dépend des activtés | Age
 5 | Contrôle du rover avec un site Web | 4  | 10-18
 6 | Contrôle du rover avec Scratch (Adacraft) | 4 | 10-14
 7 | Contrôle du rover avec Python | 4 | 14-18
-8 | Reconnaissance d'images pour le contrôle du rover avec Scratch (Adacraft) | 1, 4, 6 | 10-14
-9 | Reconnaissance d'images pour le contrôle du rover avec Python | 2, 4, 7 | 14-18
+8 | Contrôle du rover et reconnaissance d'images avec Scratch (Adacraft) | 1, 4, 6 | 10-14
+9 | Contrôle du rover et reconnaissance d'images avec Python | 2, 4, 7 | 14-18
 
 
 ## Objectifs pédagogiques 
