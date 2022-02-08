@@ -11,10 +11,19 @@ def take_picture(camera_object, input_image_size=(224,224)):
     return_status, picture = camera_object.read()
     
     picture_rgb = cv2.cvtColor(picture, cv2.COLOR_BGR2RGB)
-    picture_rgb = cv2.resize(picture_rgb, input_image_size)
     
+    # Crop image so that width and height are the same
+    height = picture_rgb.shape[0]
+    width = picture_rgb.shape[1]
+    picture_rgb = picture_rgb[:,int(width/2-height/2):int(width/2+height/2),:]
+    
+    # Resize image
+    picture_rgb = cv2.resize(picture_rgb, input_image_size)
+
+    picture_rgb = cv2.flip(picture_rgb, 1)
        
     return picture_rgb
+
 
 def initialize_model(model_path='model_unquant.tflite', coral_accelerator = 0):
     
