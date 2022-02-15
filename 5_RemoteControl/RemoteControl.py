@@ -25,6 +25,8 @@ import flask
 left_motor = gpiozero.Motor(7, 8)
 right_motor = gpiozero.Motor(9, 10)
 
+motor_speed = 0.5
+
 
 # In[3]:
 
@@ -66,25 +68,25 @@ def video_feed():
 
 @app.route('/forward')
 def forward():
-    left_motor.forward(0.2)
-    right_motor.forward(0.2)
+    left_motor.forward(motor_speed)
+    right_motor.forward(motor_speed)
     return ""
     
 @app.route('/backward')
 def backward():
-    left_motor.backward(0.2)
-    right_motor.backward(0.2)
+    left_motor.backward(motor_speed)
+    right_motor.backward(motor_speed)
     return ""
     
 @app.route('/left')
 def left():
-    right_motor.forward(0.2)
+    right_motor.forward(motor_speed)
     left_motor.stop()
     return ""
     
 @app.route('/right')
 def right():
-    left_motor.forward(0.2)
+    left_motor.forward(motor_speed)
     right_motor.stop()
     return ""
     
@@ -98,13 +100,7 @@ def stop():
 # In[6]:
 
 
-app.run(host='0.0.0.0', port=2204, threaded=True, debug=True)
-
-
-# In[ ]:
-
-
-
+app.run(host='0.0.0.0', port=2204, threaded=True, debug=False)
 
 
 # In[ ]:
