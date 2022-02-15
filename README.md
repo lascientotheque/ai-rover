@@ -78,6 +78,7 @@ Les activités se décomposent en trois parties:
 
 Numéro activité | Activité | Dépend des activités | Temps estimé
  :--- | :--- | :--- | :--- 
+0 | Mission Fetch depuis la salle de contrôle | | 2-4h
 1 | Reconnaissance d'images avec Google Teachable Machine | | 2-4h
 2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  | 2-4h
 4 | Construction d'un rover avec Raspberry Pi | | 2-4h
@@ -89,6 +90,7 @@ Numéro activité | Activité | Dépend des activités | Temps estimé
 
 Numéro activité | Activité | Dépend des activités | Temps estimé
  :--- | :--- | :--- | :---
+0 | Mission Fetch depuis la salle de contrôle | | 2-4h
 1 | Reconnaissance d'images avec Google Teachable Machine | | 2-4h
 3 | Reconnaissance d'images en Python | 1  | 2-4h
 4 | Construction d'un rover avec Raspberry Pi |  | 2-4h
