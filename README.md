@@ -41,13 +41,13 @@ Les activités se décomposent en trois parties:
 <table>
     <tr>
         <td> 
-            <img src="4_Construction_Rover/images/CamJam_Box.jpg"  width="300"/> 
+            <img src="5_Construction_Rover/images/CamJam_Box.jpg"  width="300"/> 
         </td>
         <td> 
-            <img src="4_Construction_Rover/images/CamJam_Chassis.jpg" alt="drawing" width="300"/> 
+            <img src="5_Construction_Rover/images/CamJam_Chassis.jpg" alt="drawing" width="300"/> 
         </td>
         <td> 
-            <img src="4_Construction_Rover/images/camjam_wood.png" width="300"/>
+            <img src="5_Construction_Rover/images/camjam_wood.png" width="300"/>
         </td>
     </tr>
     <tr>
@@ -78,25 +78,25 @@ Les activités se décomposent en trois parties:
 
 Numéro activité | Activité | Dépend des activités | Temps estimé
  :--- | :--- | :--- | :--- 
-0 | Mission Fetch depuis la salle de contrôle | | 2-4h
 1 | Reconnaissance d'images avec Google Teachable Machine | | 2-4h
 2 | Reconnaissance d'images avec Scratch (Adacraft) | 1  | 2-4h
-4 | Construction d'un rover avec Raspberry Pi | | 2-4h
-5 | Contrôle du rover avec un site Web | 4 | 1h
-6 | Contrôle du rover avec Scratch (Adacraft) | 4 | 2-4h
-8 | Contrôle du rover et reconnaissance d'images avec Scratch (Adacraft) | 1, 4, 6 | 2-4h
+4 | Jeu - Centre de contrôle Fetch | (1) | 2-4h
+5 | Construction d'un rover avec Raspberry Pi | | 2-4h
+6 | Contrôle du rover avec un site Web | 5 | 1h
+7 | Contrôle du rover avec Scratch (Adacraft) | 5 | 2-4h
+9 | Contrôle du rover et reconnaissance d'images avec Scratch (Adacraft) | 1, 5, 7 | 2-4h
 
 * De 14 à 18 ans: Programmation des activités avec Python 
 
 Numéro activité | Activité | Dépend des activités | Temps estimé
  :--- | :--- | :--- | :---
-0 | Mission Fetch depuis la salle de contrôle | | 2-4h
 1 | Reconnaissance d'images avec Google Teachable Machine | | 2-4h
 3 | Reconnaissance d'images en Python | 1  | 2-4h
-4 | Construction d'un rover avec Raspberry Pi |  | 2-4h
-5 | Contrôle du rover avec un site Web | 4  | 1h
-7 | Contrôle du rover avec Python | 4 | 2-4h
-9 | Contrôle du rover et reconnaissance d'images avec Python | 3, 4, 7 | 2-4h
+4 | Jeu - Centre de contrôle Fetch | (1) | 2-4h
+5 | Construction d'un rover avec Raspberry Pi |  | 2-4h
+6 | Contrôle du rover avec un site Web | 5  | 1h
+8 | Contrôle du rover avec Python | 5 | 2-4h
+10 | Contrôle du rover et reconnaissance d'images avec Python | 3, 5, 8 | 2-4h
 
 
 ## Objectifs pédagogiques 
